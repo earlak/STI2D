@@ -1,0 +1,17 @@
+{
+    "faction": "/r/STI2D",
+    "contact": "https://discord.gg/placefr-959455317886902302",
+    "templates": [
+        {
+            "name": "Les STI2D",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/1131583977220755456/1132426329413914724/overlayV6.png"
+            ],
+            "priorityMaskSources": [
+                "https://cdn.discordapp.com/attachments/1131583977220755456/1131976540347973743/pixil-frame-0.png"
+            ],
+            "x": 468,
+            "y": 164
+        }
+    ]
+}
